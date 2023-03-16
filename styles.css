@@ -1,0 +1,27 @@
+body{
+    background-color: gray;
+    font-size: large;
+    font-family: Roboto;
+}
+button{
+    font-size: large;
+    border-radius: 4px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+button:hover{
+    opacity: 0.95;
+    transition: 0.15s ease-in-out;
+    box-shadow: inset;
+}
+
+.container{
+    display: block;
+    
+}
+
+div{
+    padding: 3px;
+}
+
